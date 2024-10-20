@@ -1,0 +1,30 @@
+.form input{
+    width: 45%;
+    line-height: 2rem;
+    font-size: 20px;
+    border: 0;
+    padding: 0;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.form button{
+    width: 20%;
+    line-height: 2rem;
+    font-size: 20px;
+    background-color: rgb(68, 213, 65);
+    border: 0;
+    padding: 0;
+}
+.form select{
+    height: 2rem;
+    width: 10%;
+    line-height: 2rem;
+    font-size: 20px;
+    border: 0;
+    padding: 0;
+   
+}
